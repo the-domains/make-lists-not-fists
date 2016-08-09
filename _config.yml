@@ -1,0 +1,14 @@
+layout_spectrum: 0.13356465776450932
+typography_spectrum: 0.1944622395094484
+color:
+  brandStrength: 0.11463504796847701
+  lightness: 0.7246459093876183
+  saturation: 0.28880212269723415
+  rhythmicContrast: 0.044158833334222436
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Make Lists Not Fists
