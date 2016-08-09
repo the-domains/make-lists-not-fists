@@ -1,15 +1,15 @@
-layout_spectrum: 0.13356465776450932
-typography_spectrum: 0.1944622395094484
+layout_spectrum: 0.8806820244062692
+typography_spectrum: 0.6061718901619315
 color:
-  brandStrength: 0.11463504796847701
-  lightness: 0.7246459093876183
-  saturation: 0.28880212269723415
-  rhythmicContrast: 0.044158833334222436
+  brandStrength: 0.4991831525694579
+  lightness: 0.31051295925863087
+  saturation: 0.47214038483798504
+  rhythmicContrast: 0.7236652504652739
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
 name: Make Lists Not Fists
 title: A Student Survival Guide To Stress-Free Productivity
